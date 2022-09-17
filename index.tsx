@@ -75,7 +75,7 @@ class App extends Component {
           <input
             type="text"
             className="todo_text"
-            placeholder="Enter Items..."
+            placeholder="Add To Do..."
             ref={this.inputItem}
           />
 
